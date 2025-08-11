@@ -1,0 +1,1 @@
+## This is my portfolio website, built using Wordpress with Elementor builder and Astra theme. This website was develpoed in my homelab, and the files were exported using the Simply Static Plugin and hosted here, in Github.
